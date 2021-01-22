@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/index.scss"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA,mCAAmC","file":"./css/index.css","sourcesContent":["h1 {\n  color: purple;\n  text-align: center;\n  -webkit-transform-origin: center;\n          transform-origin: center; }\n"],"sourceRoot":""}
